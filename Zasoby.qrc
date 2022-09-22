@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/grafika">
+        <file>bloczek.png</file>
+        <file>kulka.png</file>
+        <file>paletka.png</file>
+        <file>background.jpg</file>
+        <file>button.png</file>
+        <file>arkanoid.png</file>
+        <file>win.png</file>
+        <file>gameover.jpg</file>
+    </qresource>
+    <qresource prefix="/sound">
+        <file>videoplayback3.mp3</file>
+        <file>game1.mp3</file>
+        <file>game2.mp3</file>
+        <file>game3.mp3</file>
+        <file>boost.mp3</file>
+        <file>lose.mp3</file>
+        <file>victory.mp3</file>
+    </qresource>
+</RCC>
